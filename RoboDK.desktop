@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=3.4.0
+Type=Application
+Terminal=false
+Name=RoboDK
+Path=/home/labcoro/Downloads/RoboDK-v3.4.0
+Exec=sh -c ./RoboDK-Start.sh
+Icon=/home/labcoro/Downloads/RoboDK-v3.4.0/logo-robodk.png
