@@ -1,2 +1,2 @@
 # Clopema
-This is a project on Clothes Perception and Manipulation
+This is a project on Clothes Perception and Manipulation.
